@@ -87,6 +87,29 @@ li {
     margin-top: 20px;
 }
 
+#oneright {
+    float: left;   
+    width: 30%;
+    height: 300px;    
+    margin-top: 20px;
+}
+
+#oneleft {
+    float: left;   
+    width: 30%;
+    height: 300px;  
+    margin-top: 20px;
+}
+
+#onepic {
+    float: left;   
+    width: 40%;
+    height: 300px;  
+    margin-top: 20px;
+}
+
+
+
 .featuresdescr {
     font-size: 15px;
     font-weight: 300;
